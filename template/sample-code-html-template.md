@@ -1,6 +1,6 @@
 <!-- Cabeçalho da Linguagem do Código -->
 <!-- NÃO ALTERAR -->
-# <img src="./../images/html.svg" width="30"> HTML
+# <img src="./../images/html.svg" width="40"> HTML
 
 <!-- Tabela Síntese -->
 <!-- NÃO EDITAR O CABEÇALHO -->
