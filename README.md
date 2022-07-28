@@ -28,7 +28,6 @@ O conteúdo deste repositório é distribuído sob a licença Creative Commons L
 
 Nosso agradecimento aos autores das imagens utilizadas neste repositório:
 
-- <a href="https://www.freepik.com/free-vector/pull-request-concept-illustration_13135273.htm">Pull request concept illustration</a>, vetor criado por <a href="https://www.freepik.com/author/stories">storyset</a> e disponibilizado em Freepik₢
-- <a href="https://www.flaticon.com/premium-icon/html-language_5815394">Html Language free icon</a>, criado por <a href="https://www.flaticon.com/authors/juicy-fish">juicy_fish</a> e disponibilizado em Flaticon₢
-- <a href="https://www.flaticon.com/premium-icon/css-code_5815160">Css Code free icon</a>, criado por <a href="https://www.flaticon.com/authors/juicy-fish">juicy_fish</a> e disponibilizado em Flaticon₢
-- <a href="https://www.flaticon.com/premium-icon/css-code_5815160">Css Code free icon</a>, criado por <a href="https://www.flaticon.com/authors/juicy-fish">juicy_fish</a> e disponibilizado em Flaticon₢. Esse ícone foi personalizado para ilustrar o template dos códigos Javascript 
+- <a href="https://www.freepik.com/free-vector/pull-request-concept-illustration_13135273.htm">Pull request concept illustration</a>, vetor criado por <a href="https://www.freepik.com/author/stories">storyset</a> e disponibilizado em Freepik :copyright:
+- <a href="https://www.flaticon.com/premium-icon/html-language_5815394">Html Language free icon</a>, criado por <a href="https://www.flaticon.com/authors/juicy-fish">juicy_fish</a> e disponibilizado em Flaticon :copyright:
+- <a href="https://www.flaticon.com/premium-icon/css-code_5815160">Css Code free icon</a>, criado por <a href="https://www.flaticon.com/authors/juicy-fish">juicy_fish</a> e disponibilizado em Flaticon :copyright:. Esse ícone foi personalizado para ilustrar o template dos códigos Javascript 
