@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/joaofaveri/full-stack-open-2022">
-    <img src="images/programmer.png" alt="Full Stack Open 2022" width="80" height="80">
+    <img src="images/pull-request-animated.svg" alt="Pull Request na Prática" width="200" height="200">
   </a>
 
 <h3 align="center">Full Stack Open 2022 Exercises</h3>
