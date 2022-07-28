@@ -1,12 +1,12 @@
 <!-- Cabeçalho da Linguagem do Código -->
 <!-- NÃO ALTERAR -->
-# ![HTML Icon](../images/html.svg) HTML
+# <img src="./../images/html.svg" width="30"> HTML
 
 <!-- Tabela Síntese -->
 <!-- NÃO EDITAR O CABEÇALHO -->
 | HTML Tag | Tópicos | Nível | Lançamento | Atualização |
 | :------: | :-----: | :---: | :--------: | :---------: |
-| <p> | #parágrafo | Iniciante | 2022-07-28 | - |
+| ``<p>`` | #parágrafo | Iniciante | 2022-07-28 | - |
 
 <!-- Título da tag HTML que será incluída no repositório -->
 ## Parágrafo
