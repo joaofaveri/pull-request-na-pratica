@@ -32,19 +32,19 @@ Para isso, faça o seguinte:
 1. Acesse o projeto no GitHub que você pretende bifurcar
 2. No topo direito da página do repositório, clique no botão **Fork**
 
-![Botão de Fork]("./images/fork_button.png")
+![Botão de Fork](images/fork_button.png)
 
 3. Selecione um proprietário para o repositório bifurcado (seu username no GithHub) e defina um nome. Por padrão, as bifurcações possuem o mesmo nome de seu repositório pai, mas fique à vontade para definir o nome de sua preferência. Opcionalmente, insira uma descrição
 
-![Escolha o nome do Repositório]("./images/fork-choose-repo-name.png")
+![Escolha o nome do Repositório](images/fork-choose-repo-name.png)
 
 4. Escolha se será copiado o ramo padrão (``main branch``) ou todos os ramos existentes. Em geral, para contribuir com projetos open source, basta copiar o ramo ``main``.
 
-![Copiar Somente o Ramo main]("./images/copy-default-branch-only.png")
+![Copiar Somente o Ramo main](images/copy-default-branch-only.png)
 
 5. Para finalizar o processo, clique em **Create Fork**
 
-![Criar Fork]("./images/fork-create-button.png")
+![Criar Fork](images/fork-create-button.png)
 
 ### Como clonar seu repositório fork
 
@@ -52,11 +52,11 @@ Para poder editar localmente os arquivos do repositório que você acabou de bif
 
 1. Acesso a página do repositório fork em seu GitHub e, acima da lista de arquivos, clique em **Code**
 
-![Baixar Código]("./images/code-button.png")
+![Baixar Código](images/code-button.png)
 
 2. Copie a URL do repositório para clonar seus arquivos. Você pode usar ``HTTPS``, ``SSH`` ou o ``GitHub CLI``. Neste exemplo, vamos usar o endereço HTTPS
 
-![Copiar URL do Repositório]("./images/https-url-clone-cli.png")
+![Copiar URL do Repositório](images/https-url-clone-cli.png)
 
 3. No seu computador, no diretório onde pretenda ter o seu repositório clonado, abra o Terminal (OS e Linux) ou o Git Bash (Windows) e digite o seguinte comando:
 
@@ -157,9 +157,9 @@ Contribuir com projetos de código aberto é uma maneira de aprender, ensinar e 
 
 Antes de qualquer coisa, sempre que for contribuir para um projeto de código aberto, é essencial ler a documentação do repositório, geralmente disponibilizada na pasta principal. Os seguintes arquivos são os mais comuns:
 
-- **LICENSE**: todo projeto de código aberto deve possuir uma licença open source. Conheça a [licença]("./LICENSE") de nosso repositório!
+- **LICENSE**: todo projeto de código aberto deve possuir uma licença open source. Conheça a [licença](LICENSE") de nosso repositório!
 - **README**: é uma espécie de *manual* do repositório, que além das boas-vindas, explica o porquê do projeto, sua utilidade e como usar os recursos disponibilizados.
-- **CONTRIBUTING**: enquanto o `README` ajuda os membros da comunidade a usarem o projeto, o documento `CONTRIBUTING` é um passo a passo sobre como contribuir com o projeto. Ele explica que tipos de contribuições são permitidas e como funciona o processo. Se o arquivo existir, é sinal de que o projeto está aberto à contribuição dos demais usuários. Não deixe de ler nosso [guia de contribuição]("./CONTRIBUTING.md")!
+- **CONTRIBUTING**: enquanto o `README` ajuda os membros da comunidade a usarem o projeto, o documento `CONTRIBUTING` é um passo a passo sobre como contribuir com o projeto. Ele explica que tipos de contribuições são permitidas e como funciona o processo. Se o arquivo existir, é sinal de que o projeto está aberto à contribuição dos demais usuários. Não deixe de ler nosso [guia de contribuição](CONTRIBUTING.md)!
 
 Trabalharemos com duas formas de contribuição:
 
