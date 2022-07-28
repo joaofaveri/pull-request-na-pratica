@@ -10,18 +10,14 @@
     <img src="./images/pull-request-animate.svg" alt="Pull Request na Prática" width="400" height="400">
   </a>
 
-<h3 align="center">Pull Request na Prática</h3>
-<h4><i>Saiba na prática como criar um Pull Request, submetendo alterações neste repositório</i></h4>
-<h5>Apoie esta iniciativa! Marque com :star: o repositório!</h5>
+<h1 align="center">Pull Request na Prática</h1>
+<h3><i>Saiba na prática como criar um Pull Request, submetendo alterações neste repositório</i></h3>
+<h4>Apoie esta iniciativa! Marque com :star: o repositório!</h4>
+</div>
 <br />
-
-***
-
-# Pull Request na Prática
 
 De acordo com o Glossário da GitHub, Pull Requests (ou simplesmente PRs) são alterações propostas em um repositório enviadas por um usuário e que são aceitas ou rejeitadas pelos colaboradores do repositório. Muitos programadores, especialmente os iniciantes, por mais que desejem contribuir de alguma forma com projetos de código aberto, sentem-se pouco confiantes. Com este repositório, você terá oportunidade de conhecer melhor o que é o Pull Request e como realizá-lo. Mais do que isso, contribuirá com o repositório enviando seu Pull Request.
 
-***
 
 ## Entenda como Fazer um Pull Request
 
@@ -144,7 +140,6 @@ Acesse a página do seu repositório bifurcado na página do GitHub. Caso identi
 
 Para criar um pull request que está pronto para revisão, clique em **Criar Pull Request**. Para criar um rascunho de pull request, use o menu suspenso e selecione **Criar rascunho de pull request** e, em seguida, clique em **Rascunho de Pull Request**.
 
-***
 
 ## Por que contribuir?
 
@@ -157,7 +152,6 @@ Contribuir com projetos de código aberto é uma maneira de aprender, ensinar e 
 - Criar repositórios de projetos ou contribuições que aumentam a reputação e se mostram valiosos para levar a carreira a um novo nível
 - Praticar as soft-skills na relação com outras programadores, exercitando liderança, gerenciamento, resolução de conflitos, organização de equipes, dentre outras
 
-***
 
 ## Como contribuir?
 
@@ -174,13 +168,11 @@ Trabalharemos com duas formas de contribuição:
 
 Mais do que uma oportunidade para aprender sobre Pull Request, você pode contribuir com esse repositório enviando exemplos de códigos ``HTML``, ``CSS`` ou ``Javascript``. Algumas iniciativas semelhantes solicitam apenas a inclusão de alguma informação, como nome ou cidade onde mora. Nossa ideia é estimular você a relatar e divulgar conhecimento nessas linguagens essenciais para a Internet. Portanto, bora codar!
 
-***
 
 ## License
 
 O conteúdo deste repositório é distribuído sob a licença Creative Commons Legal (Code CC0 1.0 Universal). Para maiores detalhes, leia o arquivo [LICENSE]("./../LICENSE").
 
-***
 
 ## Créditos
 
