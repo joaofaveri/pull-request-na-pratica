@@ -1,8 +1,12 @@
 <!-- Cabeçalho da Linguagem do Código -->
 <!-- NÃO ALTERAR -->
-# <img src="./../images/html.svg" width="40"> HTML
+# <img src="./../images/html.svg" width="40"> Elementos HTML
 
 <!-- Tabela Síntese -->
+<!-- O Nível pode ser uma das seguintes opções:
+        - Iniciante
+        - Intermediário
+        - Avançado -->
 <!-- NÃO EDITAR O CABEÇALHO -->
 | HTML Tag | Tópicos | Nível | Lançamento | Atualização |
 | :------: | :-----: | :---: | :--------: | :---------: |
