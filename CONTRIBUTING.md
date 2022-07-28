@@ -29,8 +29,8 @@ Abaixo, o link para cada um dos templates:
 
 Não esqueça de realizar cada uma das seguintes etapas:
 
-1. Faça o **fork do repositório** e clone o seu conteúdo localmente. Conecte seu repositório local ao repositório original como ``upstream``, adicionando-o como remoto. Para manter sua cópia local sincronizada, realize com frequência o comando ``pull`` do Git. Assim, mantendo sua versão sempre atualizada, ao submeter o Pull Reques, menores serão as chances de conflitos no código durante o ```merge``.
-2. Cria um novo ``branch``. Evite alterações diretamente no main.
+1. Faça o **fork do repositório** e clone o seu conteúdo localmente. Conecte seu repositório local ao repositório original como ``upstream``, adicionando-o como remoto. Para manter sua cópia local sincronizada, realize com frequência o comando ``pull`` do Git. Assim, mantendo sua versão sempre atualizada, ao submeter o Pull Reques, menores serão as chances de conflitos no código durante o ``merge``.
+2. Crie um novo ``branch``. Evite alterações diretamente no main.
 3. Ao enviar o Pull Request, faça referência a qualquer issue relevante, por exemplo, informando na mensagem "Closes #17". Com isso, ao sendo aceita a Pull Request, o GitHub irá automaticamente fechar a issue correspondente.
 4. Sempre que necessário, inclua imagens que possam ilustrar com maior precisão as razões e o resultado de suas alterações. No GitHub, ao fazer Pull Request, basta arrastar e soltar a imagem no corpo da mensagem.
 5. Teste suas alterações! Tenha certeza de que sua contribuição não impactará o projeto.
