@@ -157,7 +157,7 @@ Contribuir com projetos de código aberto é uma maneira de aprender, ensinar e 
 
 Antes de qualquer coisa, sempre que for contribuir para um projeto de código aberto, é essencial ler a documentação do repositório, geralmente disponibilizada na pasta principal. Os seguintes arquivos são os mais comuns:
 
-- **LICENSE**: todo projeto de código aberto deve possuir uma licença open source. Conheça a [licença](LICENSE") de nosso repositório!
+- **LICENSE**: todo projeto de código aberto deve possuir uma licença open source. Conheça a [licença](LICENSE) de nosso repositório!
 - **README**: é uma espécie de *manual* do repositório, que além das boas-vindas, explica o porquê do projeto, sua utilidade e como usar os recursos disponibilizados.
 - **CONTRIBUTING**: enquanto o `README` ajuda os membros da comunidade a usarem o projeto, o documento `CONTRIBUTING` é um passo a passo sobre como contribuir com o projeto. Ele explica que tipos de contribuições são permitidas e como funciona o processo. Se o arquivo existir, é sinal de que o projeto está aberto à contribuição dos demais usuários. Não deixe de ler nosso [guia de contribuição](CONTRIBUTING.md)!
 
