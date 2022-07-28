@@ -171,7 +171,7 @@ Mais do que uma oportunidade para aprender sobre Pull Request, você pode contri
 
 ## License
 
-O conteúdo deste repositório é distribuído sob a licença Creative Commons Legal (Code CC0 1.0 Universal). Para maiores detalhes, leia o arquivo [LICENSE]("./LICENSE").
+O conteúdo deste repositório é distribuído sob a licença Creative Commons Legal (Code CC0 1.0 Universal). Para maiores detalhes, leia o arquivo [LICENSE](LICENSE).
 
 
 ## Créditos
