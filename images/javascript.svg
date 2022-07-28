@@ -36,12 +36,12 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="0.921875"
-     inkscape:cx="266.85106"
+     inkscape:cx="66.715467"
      inkscape:cy="256.89836"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g14" /><g
+     inkscape:current-layer="g16" /><g
      id="g16"><path
        d="M 55,9.231 C 54.579,15.8 51.52,47.5 30.945,58.76 a 1.98,1.98 0 0 1 -1.89,0 C 8.48,47.5 5.421,15.8 5,9.231 a 1.99,1.99 0 0 1 0.98,-1.845 48.367,48.367 0 0 1 48.04,0 1.99,1.99 0 0 1 0.98,1.845 z"
        data-original="#c0dadc"
@@ -63,6 +63,17 @@
        data-original="#292d60"
        class=""
        id="rect6"
-       style="fill:#338000" /><g
+       style="fill:#ffcc00" /><g
        id="g14"
-       style="fill:#ffffff" /></g></svg>
+       style="fill:#ffffff" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.25px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1171875"
+       x="20.235901"
+       y="32.998535"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="20.235901"
+         y="32.998535"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.875px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.1171875">JS</tspan></text>
+</g></svg>
