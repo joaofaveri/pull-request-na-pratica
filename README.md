@@ -168,6 +168,13 @@ Trabalharemos com duas formas de contribuição:
 
 Mais do que uma oportunidade para aprender sobre Pull Request, você pode contribuir com esse repositório enviando exemplos de códigos ``HTML``, ``CSS`` ou ``Javascript``. Algumas iniciativas semelhantes solicitam apenas a inclusão de alguma informação, como nome ou cidade onde mora. Nossa ideia é estimular você a relatar e divulgar conhecimento nessas linguagens essenciais para a Internet. Portanto, bora codar!
 
+## Agradecimento aos Colaboradores
+
+Obrigado por ajudar o Pull Request na Prática a crescer! 💪
+
+<a href="https://github.com/joaofaveri/pull-request-na-pratica/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=joaofaveri/pull-request-na-pratica" />
+</a>
 
 ## License
 
